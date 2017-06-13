@@ -31,8 +31,9 @@ Scoring:
 4) Climber hook: 30 points/relic
 5) Cross the Red vortex of Flame (-40) points
 
-End Game: Take possession of the Golden Idol 50 points
-          Deposit the Golden idol into the vault 50 points.
+End Game: 
+1) Take possession of the Golden Idol 50 points
+2) Deposit the Golden idol into the vault 50 points.
 
 
 # Requirements       
