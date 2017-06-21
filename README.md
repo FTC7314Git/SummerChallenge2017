@@ -2,7 +2,7 @@
 
 Design, build, and demonstate a working robot to perform the follow tasks before August 26.
 
-Game layout: Picture (later)
+ [Game layout Picture](FieldDrawing.png)
 
 Field size: standard size 12'x12' carpeted floor
 Field pieces:
