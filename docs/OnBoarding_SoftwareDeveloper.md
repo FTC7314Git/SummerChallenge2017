@@ -1,4 +1,4 @@
-# Welcome to the Team!
+# Welcome to the Software Team!
 
 When someone joins the team as a Software Developer the following tasks will need to be completed.  After completing these tasks you will know the secret handshake.
 
