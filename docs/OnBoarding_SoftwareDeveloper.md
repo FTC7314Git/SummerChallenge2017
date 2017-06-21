@@ -4,7 +4,7 @@ When someone joins the team as a Software Developer the following tasks will nee
 
 1) Install the most recent version of [Android Studio] (https://developer.android.com/studio/index.html)  This will be used to write the code for our robot.
 
-2) Install [SourceTree](https://www.sourcetreeapp.com/) This will be used to get the team’s most recent software code robot.  Updating of the software code will also be done with this program.
+2) Install [SourceTree](https://www.sourcetreeapp.com/) This will be used to get the team’s most recent software code for the robot.  Updating of the software code will also be done with this program.
 
 
 
