@@ -1,10 +1,11 @@
 # SummerChallenge2017
 
-Design, build, and demonstate a working robot to perform the follow tasks before August 26.
+Design, build, and demonstate a working robot to perform the following tasks before August 26.
 
  [Game layout Picture](FieldDrawing.png)
 
 Field size: standard size 12'x12' carpeted floor
+
 Field pieces:
   1) A bridge to safely pass over a USB cable snake pit to reach a Golden Idol.
   2) A three level museum vault to deposit retrieved lost relics.  The museum vault will include a hook to score climbers .
