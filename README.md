@@ -2,7 +2,7 @@
 
 Design, build, and demonstate a working robot to perform the following tasks before August 26.
 
- [Game layout Picture 1](FieldDrawing1.png)
+ [Game layout Picture 1](FieldDrawing.png)
  
  [Game layout Picture 2](FieldDrawing2.png)
  
