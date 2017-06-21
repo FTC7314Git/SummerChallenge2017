@@ -3,6 +3,8 @@
 Design, build, and demonstate a working robot to perform the following tasks before August 26.
 
  [Game layout Picture](FieldDrawing.png)
+ 
+ [Software Developer On-Boarding](docs/OnBoarding_SoftwareDeveloper.md)
 
 Field size: standard size 12'x12' carpeted floor
 
