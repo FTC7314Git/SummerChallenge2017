@@ -1,6 +1,6 @@
 # Welcome to the Team!
 
-When someone joins the team as a Software Developer the following tasks will need to be completed.
+When someone joins the team as a Software Developer the following tasks will need to be completed.  After completing these tasks you will know the secret handshake.
 
 1) Install the most recent version of [Android Studio] (https://developer.android.com/studio/index.html)  This will be used to write the code for our robot.
 
