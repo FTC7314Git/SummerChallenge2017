@@ -6,6 +6,8 @@ When someone joins the team as a Software Developer the following tasks will nee
 
 2) Install [SourceTree](https://www.sourcetreeapp.com/) This will be used to get the team’s most recent software code for the robot.  Updating of the software code will also be done with this program.
 
+3) Clone First ftc SDK from github.  URL https://github.com/ftctechnh/ftc_app.git
+
 
 
 
